@@ -1,0 +1,117 @@
+const en_US =  {
+
+    'USERCATEGORIES': 'User Management',
+    'DICTIONARY_MANAGEMENT': 'Dictionary Management',
+    'PERMISSION_MANGEMENT': 'Permission Management',
+    'AREAS_SETTING': 'Area Setting',
+    'NODES_SETTING': 'Node Setting',
+    'DNS': 'DNS',
+    'SITES_MANAGEMENT': 'Site Management',
+    'RECORDS_MANAGEMENT': 'Record Management',
+    'CERTIFICATES_MANAGEMENT': 'Certificate Management',
+    'SECURITY_POLICIES_MANAGEMENET': 'Security Policy Management',
+    'CACHE_CLEAN': 'Clean the Cache',
+    'CACHE_CLEAN_LOGS': 'Cache Purge',
+    'OPERATION_LOGS_MANAGEMENT': 'Operation Log Management',
+    'STATISTICS_REPORT': 'Statistical Report',
+    'SITES_NOTIFICATION': 'Site Notification',
+    'DOMAIN_NAME_ADMIN': 'domain-name supervising',
+    'GREYPANEL_WHITELISTS': 'GreyPanel Whitelist',
+    'CUSTOMER_NOTIFICATION_LISTS': 'Customer Notification List',
+    'TOOLS': 'Tools',
+    'QUERY_ARCHIVE_DOMAINS': 'Query Archive Domain',
+    'QUERY_ARCHIVE_CUSTOMER': 'Query Archive Customer',
+    'QUERY_SEARCH': 'Query Archive',
+    'CREATOR': 'Creator',
+    'CREATE_DATE': 'Create Date',
+    'DELETE_DATE': 'Delete Date',
+    'REBOOT': 'Reboot',
+    'BATCH_FUNCTION': 'Batch Function',
+    'SUBLEVEL_BLACKLIST_FIREWALL': 'Secondary Firewall Blacklist',
+    'ACCOUNT_ACTIONS_SETTING': 'Account Information',
+    'LOGS_VIEW': 'Cache Purge Log',
+    'APIS_MANAGEMENT': 'API Management',
+
+    'SITE_DNS_MANAGEMENT': 'DNS Management',
+    'SITE_CDN_CONFIGURATION': 'CDN Configurations',
+    'SITE_ACCESS_CONTROL': 'Access Control',
+    'SITE_WAF': 'WAF',
+    'SITE_CACHE_CLEAN': 'Cache Purge',
+    'SITE_STATISTICS_ANALYSIS': 'Statistics',
+    'SITE_NOTIFICATION_MANAGEMENT': 'Notification',
+    'SITE_NODEACCOUNT_MANAGEMENT': 'Subaccount management',
+ 
+    /**SUB MENU */
+    'USERCATEGORIES_SUPER_ADMIN': 'Super Admin',
+    'USERCATEGORIES_SUPPORT_GROUP': 'Support Group',
+    'USERCATEGORIES_SALES_GROUP': 'Sales Group',
+    'USERCATEGORIES_AGENT': 'Agent',
+    'USERCATEGORIES_INTERNAL_TEST': 'Internal Test',
+    'USERCATEGORIES_INTERNAL_CUSTOMERS': 'Internal Customer',
+    'USERCATEGORIES_CUSTOMERS': 'Customer',
+    
+    'AREAS_SETTING_CDN_BUSINESS_AREA': 'CDN Business Area',
+    'AREAS_SETTING_PORT_FORWARDING_AREA': 'Port Forwarding Area',
+
+    'NODES_SETTING_MAINNODE': 'Main Node',
+    'NODES_SETTING_SUBNODE': 'Sub Node',
+
+    'DNS_DNS_RECORDS': 'DNS Record',
+    'DNS_DNS_DISTRIBUTION': 'DNS Assignment',
+    'DNS_DNS_TEMPLATE': 'DNS Template',
+    'DNS_ROUTING_SCHEDULE': 'Routing and Scheduling',
+
+    'STATISTICS_REPORT_CUSTOMER_BANDWIDTH': 'Customer Bandwidth Statistics',
+    'STATISTICS_REPORT_VISITOR': 'Visitor Statistics',
+    'STATISTICS_REPORT_SITEGROUP': 'Site Group Statistics',
+    'STATISTICS_REPORT_SITEDATA': 'Site Data Statistics',
+    'STATISTICS_REPORT_PROTECTION': 'Protection Analysis',
+
+    'TOOLS_GREYPANEL_CDN_NODE_QUERY': 'Greypanel CDN Node',
+    'TOOLS_DOMAIN_GFW_CHECKUP': 'GFW Check',
+    'TOOLS_DNS_CHECKUP': 'DNS Check',
+    'TOOLS_CODE_CONVERTER': 'Code Converter',
+    'TOOLS_PORT_CHECKUP': 'CDN Port Check',
+    'TOOLS_ERROR_PAGE_QUERY': 'Error Page Node Query',
+    'TOOLS_IP_SITE_QUERY': 'IP address query',
+
+    'BATCH_FUNCTION_WAF': 'WAF',
+    'BATCH_FUNCTION_SOURCE_ORIGIN_MODIFY' : 'Source Point Modification',
+    'BATCH_FUNCTION_REALTIME_FREEZING_IP': 'Real-time Freeze IP',
+    'BATCH_FUNCTION_RECORD_DELETE': 'Record Delete',
+
+    'ACCOUNT_ACTIONS_SETTING_OVERRALL': 'Information',
+    'ACCOUNT_ACTIONS_SETTING_PASSWORD_MODIFY': 'Change Password',
+    'ACCOUNT_ACTIONS_SETTING_SECURITY': 'Security',
+    'ACCOUNT_ACTIONS_SETTING_EMPLOY': 'Using the details',
+
+    'LOGS_VIEW_CACHE_CLEAN_LOG': 'Cache Purge Log',
+    'LOGS_VIEW_BACKEND_OPERATION_LOG': 'Event Log',
+
+    'SITE_DNS_MANAGEMENT_CNAME': 'CNAME',
+
+    'SITE_CDN_CONFIGURATION_ORIGIN_SERVER_SETTINGS': 'Origin Settings',
+    'SITE_CDN_CONFIGURATION_BASIC_INFORMATION': 'Basic Information',
+    'SITE_CDN_CONFIGURATION_CACHE_SETTINGS': 'Cache Settings',
+    'SITE_CDN_CONFIGURATION_SSL_SETTINGS': 'SSL Settings',
+    'SITE_CDN_CONFIGURATION_CUSTOM_PAGE':'Custom page',
+    'SITE_CDN_CONFIGURATION_REDIRECT':'Custom Jump',
+
+    'SITE_WAF_BASIC_INFORMATION': 'Basic Information',
+    'SITE_WAF_PROTECTION_SETTINGS': 'Protection Settings',
+    'SITE_WAF_WHITELIST': 'Whitelist',
+    'SITE_WAF_BLACKLIST': 'Blacklist',
+    'SITE_WAF_WAF_RULES': 'WAF Rules',
+
+    'SITE_STATISTICS_ANALYSIS_PERFORMANCE': 'Performance Statistics',
+    'SITE_STATISTICS_ANALYSIS_PROTECTION': 'Protection Statistics',
+
+    'TOOLS_TEMPL': 'Template Config',
+    'TOOLS_LOOKUP': 'Look Up Config',
+
+    'SYSTEM_MODULE_CATEGORY':'Module Category Management',
+    'SYSTEM_MODULE_AUTH':'Category Authority',
+
+    'ROLE_MANAGEMENT':'Role',
+}
+export default en_US
